@@ -93,7 +93,7 @@ header .search-icon{
 	font-size: 15px;
 }
 #slider{
-	background-image:url("C:/Users/ndami/OneDrive/Desktop/w3_band/assets/img/slider/slider1.jpg");
+	background-image:url("/assets/img/slider/slider1.jpg");
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size: cover;
