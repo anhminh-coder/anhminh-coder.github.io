@@ -93,7 +93,7 @@ header .search-icon{
 	font-size: 15px;
 }
 #slider{
-	background-image:url("/assets/img/slider/slider1.jpg");
+	background-image:url("https://www.w3schools.com/w3images/chicago.jpg");
 	background-repeat: no-repeat;
 	background-position: top center;
 	background-size: cover;
